@@ -1,0 +1,14 @@
+{
+  "name": "edgartools-ts",
+  "version": "0.1.0",
+  "description": "TypeScript utilities inspired by edgartools Python library",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"No tests\""
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
