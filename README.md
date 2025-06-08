@@ -625,6 +625,10 @@ Report a bug by [opening a new issue](https://github.com/dgunning/edgartools/iss
 - Make sure your code lints.
 - Issue that pull request!
 
+## TypeScript version
+
+A minimal TypeScript port lives in the [ts](./ts) directory. It includes utilities like `DataPager`, `moneyfmt`, `codes`, `rich`, `markdown`, and some basic helpers in `core`. Build the project with `npm run build` inside the `ts` folder.
+
 
 
 # License
